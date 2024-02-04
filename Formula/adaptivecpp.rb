@@ -5,6 +5,11 @@ class Adaptivecpp < Formula
   license "BSD-2-Clause"
   head "https://github.com/AdaptiveCpp/AdaptiveCpp.git", branch: "develop"
 
+  bottle do
+    root_url "https://ghcr.io/v2/seanfarley/adaptivecpp"
+    sha256 monterey: "fe4c2d9f8661a2afeef89843c20b7b98a5a4bc259315c511be3d88defb5e601e"
+  end
+
   depends_on "cmake" => :build
   depends_on "boost"
   depends_on "llvm"
