@@ -1,10 +1,10 @@
-# Seanfarley Adaptivecpp
+# AdaptiveCpp Homebrew Formula
 
 ## How do I install these formulae?
 
-`brew install seanfarley/adaptivecpp/<formula>`
+`brew install seanfarley/adaptivecpp/adaptivecpp`
 
-Or `brew tap seanfarley/adaptivecpp` and then `brew install <formula>`.
+Or `brew tap seanfarley/adaptivecpp` and then `brew install adaptivecpp`.
 
 ## Documentation
 
